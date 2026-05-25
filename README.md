@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science undergraduate passionate about Full-Stack Development and AI-powered applications. Skilled in building scalable web apps using the MERN stack, Next.js, REST APIs, and modern frontend technologies. I enjoy creating impactful projects, solving real-world problems, and continuously exploring new technologies in software engineering and artificial intelligence.<br><br>🚀 Currently focused on:<br>- Full-Stack Web Development<br>- AI & Intelligent Systems<br>- Open Source & Project Building<br>- Data Structures & Algorithms
+Computer Science undergraduate passionate about Full-Stack Development and AI-powered applications. Skilled in building scalable web apps using the MERN stack, Next.js, REST APIs, and other modern technologies. I enjoy creating impactful projects, solving real-world problems, and continuously exploring new technologies in software engineering and artificial intelligence.<br><br>🚀 Currently focused on:<br>- Full-Stack Web Development<br>- AI & Intelligent Systems<br>- Open Source & Project Building<br>- Data Structures & Algorithms
 
 
 ## 🌐 Socials:
